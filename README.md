@@ -15,5 +15,5 @@ Issue编号可以在Issue标题和URL中找到.
 所有代码都应该接受Code review. 这可以确保代码质量和一致性. 这也可以让团队其他成员了解项目中发生的事情.
 ### pull requests
 每当创建一个pull request的时候. 最好团队其他成员之一对此进行代码审查. 审查结束后由问题所有者通过额外的commit来解决该分支的审查意见.
-当所有审查人员对代码满意后,则可以approve,从而结束审核.然后将此branch合并到主branch(通常是master)
-[go tutorial](https://github.com/oOMOOMOo/Git-tutorial/wiki/Tutorial)
+当所有审查人员对代码满意后,则可以approve,从而结束审核.然后将此branch合并到主branch(通常是master)  
+### [go tutorial](https://github.com/oOMOOMOo/Git-tutorial/wiki/Tutorial)
