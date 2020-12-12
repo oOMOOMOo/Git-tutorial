@@ -1,5 +1,5 @@
 # Git-tutorial
-## GitHub workfolow
+## GitHub workflow
 一般情况
 ### Issue -> branch -> pull requests -> code review 
 ### Issue
